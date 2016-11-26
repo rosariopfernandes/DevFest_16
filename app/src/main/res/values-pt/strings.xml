@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DevFest 16</string>
+    <string name="action_add">Adicionar</string>
+    <string name="action_cancel">Cancelar</string>
+    <string name="action_profile">Seu Perfil</string>
+    <string name="email">Endereço Electrónico</string>
+    <string name="name">Nome</string>
+    <string name="newSession">Nova Sessão</string>
+    <string name="proceed">Continuar</string>
+    <string name="sessionName">Título da Sessão</string>
+    <string name="startTime">Hora de Inicio</string>
+    <string name="success_profile">Perfil actualizado</string>
+    <string name="title_activity_profile">Seu Perfil</string>
+    <string name="welcome" translatable="false">Bem-vindo ao Codelab de Firebase para Android</string>
+    <string name="toast_error">Não foi possível conectar</string>
+</resources>
